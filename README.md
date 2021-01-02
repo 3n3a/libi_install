@@ -1,9 +1,18 @@
 # Mmhh, screenshots...
 
+## Download Repo
+```cmd
+git clone https://github.com/3n3a/libi_install.git
+```
+or
+```cmd
+curl https://github.com/3n3a/libi_install/archive/master.zip -L -o libi_install.zip
+tar -xf libi_install.zip
+```
+
 ## Installation
 
 ```cmd
-curl <url>/raw/installer.bat -L -o installer.bat
 installer.bat
 ```
 
